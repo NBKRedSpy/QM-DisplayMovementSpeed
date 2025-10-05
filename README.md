@@ -15,7 +15,8 @@ If the original author comes back, this mod will be removed in favor of their mo
 Cryano has made versions of this mod with improved graphics and additional information.  
 
 [Display Enemy Movement Speed Continued - UI [Hover Version]](https://steamcommunity.com/sharedfiles/filedetails/?id=3422733738)  
-[Display Movement Speed - UI \[Permanent Version\]](https://steamcommunity.com/sharedfiles/filedetails/?id=3426072300)  
+
+[Display Movement Speed - UI Permanent Version](https://steamcommunity.com/sharedfiles/filedetails/?id=3426072300)  
 
 Personally I run this mod and their Hover version together.
 
